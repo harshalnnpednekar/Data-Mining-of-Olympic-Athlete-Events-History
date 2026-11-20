@@ -36,6 +36,7 @@ An end-to-end, production-grade **Knowledge Discovery in Databases (KDD)** mini-
 - [Comparative Synthesis & Key Takeaways](#-comparative-synthesis--key-takeaways)
 - [Repository Structure](#-repository-structure)
 - [Installation & Quickstart Guide](#-installation--quickstart-guide)
+- [Interactive Streamlit Web Dashboard](#-interactive-streamlit-web-dashboard)
 - [Reproducibility & Execution](#-reproducibility--execution)
 - [Contributors](#-contributors)
 - [License](#-license)
@@ -257,6 +258,8 @@ Extracted rules reveal notable historical dynamics:
 ```
 Data-Mining-of-Olympic-Athlete-Events-History/
 │
+├── app.py                             # Interactive Streamlit Web Application
+├── requirements.txt                   # Project dependencies
 ├── Data Mining Notebook.ipynb         # Master Jupyter/Colab notebook with all 27 KDD steps
 ├── LICENSE                            # Open-source MIT License
 ├── README.md                          # Comprehensive technical documentation
@@ -281,7 +284,7 @@ Data-Mining-of-Olympic-Athlete-Events-History/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Data-Mining-of-Olympic-Athlete-Events-History.git
+git clone https://github.com/harshalnnpednekar/Data-Mining-of-Olympic-Athlete-Events-History.git
 cd Data-Mining-of-Olympic-Athlete-Events-History
 ```
 
@@ -298,9 +301,25 @@ python -m venv venv
 
 ### 3. Install Dependencies
 ```bash
-pip install --upgrade pip
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost mlxtend scipy
+pip install -r requirements.txt
 ```
+
+---
+
+## 🌐 Interactive Streamlit Web Dashboard
+
+An interactive web application is included to showcase and explore your data mining findings:
+
+```bash
+streamlit run app.py
+```
+
+### Dashboard Features:
+1. **🏠 Project Overview**: Summary of the KDD pipeline, dataset shape, and high-level milestones.
+2. **🤖 Supervised Classification Benchmark**: Interactive metric selector (Accuracy, Precision, Recall, F1, Runtime) and Random Forest feature importance charts.
+3. **🔍 Biometric Clustering**: Demographic archetype profiles and DBSCAN anomaly detection insights.
+4. **🔗 Association Rule Mining**: Latency charts comparing PCY, Multistage PCY, Multihash PCY, Apriori, and FP-Growth, alongside frequent itemset tables.
+5. **🔮 Interactive Medal Predictor**: Simulate athlete biometrics (Age, Height, Weight, Sport, Country) to compute BMI, assign biometric clusters, and estimate podium finish probability.
 
 ---
 
