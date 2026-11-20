@@ -1,0 +1,6 @@
+Algorithm,Frequent itemsets,Execution time (sec),Frequent itemsets (pairs)
+Apriori,308.0,0.48778247833251953,
+FP-Growth,308.0,18.974501848220825,
+PCY,,1.2343745231628418,132.0
+Multistage PCY,,0.5605027675628662,132.0
+Multihash PCY,,0.475416898727417,132.0

@@ -1,0 +1,133 @@
+Itemset,Support Count,Support
+"('Medal=No Medal', 'Season=Summer')",20815,0.6938333333333333
+"('Medal=No Medal', 'Sex=M')",18694,0.6231333333333333
+"('Season=Summer', 'Sex=M')",18033,0.6011
+"('Medal=No Medal', 'Team=Other Team')",9688,0.32293333333333335
+"('Season=Summer', 'Team=Other Team')",9220,0.30733333333333335
+"('Sex=M', 'Team=Other Team')",8251,0.27503333333333335
+"('Medal=No Medal', 'Sex=F')",6971,0.23236666666666667
+"('Season=Summer', 'Sex=F')",6503,0.21676666666666666
+"('Medal=No Medal', 'Season=Winter')",4850,0.16166666666666665
+"('Season=Summer', 'Sport=Athletics')",4239,0.1413
+"('Medal=No Medal', 'Sport=Athletics')",3820,0.12733333333333333
+"('Season=Winter', 'Sex=M')",3720,0.124
+"('Medal=No Medal', 'Sport=Other Sport')",3453,0.1151
+"('Sex=M', 'Sport=Athletics')",2990,0.09966666666666667
+"('Season=Summer', 'Sport=Gymnastics')",2974,0.09913333333333334
+"('Medal=No Medal', 'Sport=Gymnastics')",2745,0.0915
+"('Sex=M', 'Sport=Other Sport')",2635,0.08783333333333333
+"('Season=Summer', 'Sport=Swimming')",2575,0.08583333333333333
+"('Sex=F', 'Team=Other Team')",2564,0.08546666666666666
+"('Season=Summer', 'Sport=Other Sport')",2401,0.08003333333333333
+"('Medal=No Medal', 'Sport=Swimming')",2249,0.07496666666666667
+"('Sex=M', 'Sport=Gymnastics')",1967,0.06556666666666666
+"('Sport=Athletics', 'Team=Other Team')",1857,0.0619
+"('Season=Winter', 'Sex=F')",1744,0.058133333333333335
+"('Season=Winter', 'Sport=Other Sport')",1646,0.05486666666666667
+"('Season=Summer', 'Team=United States')",1619,0.05396666666666667
+"('Season=Winter', 'Team=Other Team')",1595,0.05316666666666667
+"('Sport=Other Sport', 'Team=Other Team')",1514,0.05046666666666667
+"('Sex=M', 'Sport=Swimming')",1493,0.04976666666666667
+"('Sex=F', 'Sport=Other Sport')",1412,0.047066666666666666
+"('Medal=No Medal', 'Team=United States')",1396,0.046533333333333336
+"('Sex=M', 'Team=United States')",1388,0.046266666666666664
+"('Season=Summer', 'Sport=Shooting')",1289,0.04296666666666667
+"('Medal=Silver', 'Season=Summer')",1275,0.0425
+"('Sex=F', 'Sport=Athletics')",1249,0.041633333333333335
+"('Medal=Bronze', 'Season=Summer')",1234,0.041133333333333334
+"('Season=Summer', 'Sport=Cycling')",1220,0.04066666666666666
+"('Medal=Gold', 'Season=Summer')",1212,0.0404
+"('Season=Summer', 'Sport=Fencing')",1207,0.040233333333333336
+"('Medal=No Medal', 'Sport=Shooting')",1162,0.038733333333333335
+"('Season=Summer', 'Sport=Rowing')",1147,0.038233333333333334
+"('Medal=No Medal', 'Team=France')",1143,0.0381
+"('Season=Summer', 'Team=Great Britain')",1142,0.038066666666666665
+"('Sex=M', 'Sport=Shooting')",1105,0.036833333333333336
+"('Season=Summer', 'Team=France')",1096,0.036533333333333334
+"('Medal=No Medal', 'Sport=Cycling')",1092,0.0364
+"('Medal=No Medal', 'Team=Great Britain')",1083,0.0361
+"('Sex=F', 'Sport=Swimming')",1082,0.036066666666666664
+"('Sex=M', 'Sport=Cycling')",1068,0.0356
+"('Medal=Silver', 'Sex=M')",1057,0.03523333333333333
+"('Season=Winter', 'Sport=Cross Country Skiing')",1056,0.0352
+"('Medal=Bronze', 'Sex=M')",1018,0.033933333333333336
+"('Medal=No Medal', 'Sport=Fencing')",1014,0.0338
+"('Sex=M', 'Team=France')",1014,0.0338
+"('Sex=F', 'Sport=Gymnastics')",1007,0.03356666666666667
+"('Season=Winter', 'Sport=Alpine Skiing')",1002,0.0334
+"('Medal=Gold', 'Sex=M')",984,0.0328
+"('Medal=No Medal', 'Sport=Alpine Skiing')",966,0.0322
+"('Medal=No Medal', 'Sport=Cross Country Skiing')",966,0.0322
+"('Medal=No Medal', 'Team=Italy')",961,0.03203333333333333
+"('Sex=M', 'Sport=Fencing')",959,0.031966666666666664
+"('Sport=Swimming', 'Team=Other Team')",923,0.030766666666666668
+"('Sex=M', 'Sport=Rowing')",909,0.0303
+"('Sex=M', 'Team=Great Britain')",906,0.0302
+"('Season=Summer', 'Team=Italy')",893,0.029766666666666667
+"('Medal=No Medal', 'Team=Canada')",893,0.029766666666666667
+"('Sex=M', 'Team=Italy')",864,0.0288
+"('Medal=No Medal', 'Sport=Rowing')",809,0.026966666666666667
+"('Season=Summer', 'Team=Germany')",803,0.026766666666666668
+"('Medal=No Medal', 'Team=Germany')",799,0.026633333333333332
+"('Medal=No Medal', 'Team=Japan')",777,0.0259
+"('Season=Summer', 'Sport=Wrestling')",772,0.025733333333333334
+"('Season=Summer', 'Team=Australia')",771,0.0257
+"('Season=Summer', 'Sport=Football')",771,0.0257
+"('Medal=No Medal', 'Team=Sweden')",753,0.0251
+"('Sex=M', 'Sport=Wrestling')",737,0.024566666666666667
+"('Season=Summer', 'Sport=Sailing')",732,0.0244
+"('Season=Summer', 'Team=Canada')",731,0.024366666666666665
+"('Sport=Gymnastics', 'Team=Other Team')",724,0.024133333333333333
+"('Medal=No Medal', 'Team=Australia')",724,0.024133333333333333
+"('Season=Summer', 'Sport=Equestrianism')",714,0.0238
+"('Season=Summer', 'Sport=Canoeing')",698,0.023266666666666668
+"('Sex=M', 'Team=Sweden')",666,0.0222
+"('Season=Summer', 'Sport=Boxing')",666,0.0222
+"('Sex=M', 'Team=Germany')",663,0.0221
+"('Season=Summer', 'Team=Japan')",660,0.022
+"('Sex=M', 'Sport=Cross Country Skiing')",660,0.022
+"('Sex=M', 'Sport=Boxing')",660,0.022
+"('Season=Summer', 'Team=Hungary')",659,0.021966666666666666
+"('Sex=M', 'Sport=Football')",648,0.0216
+"('Season=Summer', 'Team=Sweden')",646,0.021533333333333335
+"('Sex=M', 'Sport=Sailing')",640,0.021333333333333333
+"('Sex=F', 'Team=United States')",630,0.021
+"('Medal=No Medal', 'Sport=Wrestling')",626,0.020866666666666665
+"('Sex=M', 'Team=Canada')",625,0.020833333333333332
+"('Medal=No Medal', 'Sport=Equestrianism')",623,0.020766666666666666
+"('Medal=No Medal', 'Team=Poland')",619,0.020633333333333333
+"('Season=Winter', 'Sport=Ice Hockey')",607,0.020233333333333332
+"('Medal=No Medal', 'Sport=Football')",605,0.020166666666666666
+"('Sex=M', 'Sport=Alpine Skiing')",598,0.019933333333333334
+"('Medal=No Medal', 'Team=Switzerland')",597,0.0199
+"('Medal=No Medal', 'Sport=Sailing')",593,0.019766666666666665
+"('Sex=M', 'Team=Japan')",586,0.019533333333333333
+"('Season=Winter', 'Sport=Speed Skating')",580,0.019333333333333334
+"('Medal=No Medal', 'Team=Hungary')",580,0.019333333333333334
+"('Sex=M', 'Sport=Equestrianism')",578,0.019266666666666668
+"('Season=Summer', 'Sport=Hockey')",574,0.019133333333333332
+"('Season=Winter', 'Sport=Biathlon')",573,0.0191
+"('Medal=No Medal', 'Sport=Boxing')",563,0.018766666666666668
+"('Sex=M', 'Team=Australia')",561,0.0187
+"('Sex=M', 'Sport=Canoeing')",548,0.018266666666666667
+"('Medal=No Medal', 'Sport=Canoeing')",547,0.018233333333333334
+"('Season=Summer', 'Team=Spain')",526,0.017533333333333335
+"('Medal=No Medal', 'Sport=Biathlon')",526,0.017533333333333335
+"('Season=Summer', 'Sport=Basketball')",525,0.0175
+"('Sex=M', 'Sport=Ice Hockey')",522,0.0174
+"('Medal=No Medal', 'Sport=Speed Skating')",520,0.017333333333333333
+"('Season=Summer', 'Team=Poland')",519,0.0173
+"('Medal=No Medal', 'Team=Spain')",518,0.017266666666666666
+"('Sex=M', 'Team=Hungary')",518,0.017266666666666666
+"('Season=Summer', 'Team=Netherlands')",515,0.017166666666666667
+"('Sex=M', 'Team=Switzerland')",512,0.017066666666666667
+"('Season=Summer', 'Team=Soviet Union')",501,0.0167
+"('Sport=Shooting', 'Team=Other Team')",500,0.016666666666666666
+"('Medal=No Medal', 'Team=Finland')",491,0.016366666666666668
+"('Season=Summer', 'Team=China')",479,0.015966666666666667
+"('Medal=No Medal', 'Team=Netherlands')",479,0.015966666666666667
+"('Medal=No Medal', 'Team=Austria')",468,0.0156
+"('Medal=No Medal', 'Team=China')",468,0.0156
+"('Season=Summer', 'Sport=Weightlifting')",468,0.0156
+"('Sex=M', 'Team=Finland')",462,0.0154
+"('Sex=M', 'Team=Poland')",450,0.015
